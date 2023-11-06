@@ -1,5 +1,5 @@
 {
-	"name": "RashqZe",
+	"name": "test",
 	"description": "A TeleGramBot to send messages secretly!",
 	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
 	"keywords": [
@@ -8,7 +8,7 @@
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/Source-Ze/RashqZe",
+	"repository": "https://github.com/Dev-senzir/srs",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
@@ -16,11 +16,11 @@
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": "b25cce1727f6d33d41d9e00e3ed62583"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": ""
+            "value": "27477919"
 	   }
 	},
 	"buildpacks": [
