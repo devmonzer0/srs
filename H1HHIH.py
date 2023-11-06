@@ -27,16 +27,16 @@ from pyrogram import (
 )
 
 #حقوق احمد @H1HHIH - @Z1ZZIZ
-ownerID = int("5108562302") #ايدي الادمن 
-api_hash = "84da7f08e87849853b2fa6728e4192a2" #ايبي هاش 
-api_id = 19312827 #ايبي ايدي
-token = "5882944724:AAFZF7dLV" #توكن البوت
+ownerID = int("6301863282") #ايدي الادمن 
+api_hash = "b25cce1727f6d33d41d9e00e3ed62583" #ايبي هاش 
+api_id = 27477919 #ايبي ايدي
+token = "6446928301:AAGRMnCKf1qzykD2LTlBAQDVdr1VUxU1hgU" #توكن البوت
 
 
 bot = Client(
   'bot'+token.split(":")[0],
-  19312827, #ايبي ايدي
- '84da7f08e87849853b2fa6728e4192a2', #ايبي هاش
+  27477919, #ايبي ايدي
+ 'b25cce1727f6d33d41d9e00e3ed62583', #ايبي هاش
   bot_token=token, in_memory=True
 )
 app = Client(
