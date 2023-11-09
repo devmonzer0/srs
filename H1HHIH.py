@@ -26,7 +26,7 @@ from pyrogram import (
     __version__ as v
 )
 
-#حقوق احمد @H1HHIH - @Z1ZZIZ
+#سينزر الهيبة
 ownerID = int("6301863282") #ايدي الادمن 
 api_hash = "b25cce1727f6d33d41d9e00e3ed62583" #ايبي هاش 
 api_id = 27477919 #ايبي ايدي
@@ -521,5 +521,5 @@ async def generator_and_about(app,m):
 
 app.start()
 bot.start()
-print("تم تشغيل البوت @Z1ZZIZ")
+print("سينزر للهيبة")
 idle()
