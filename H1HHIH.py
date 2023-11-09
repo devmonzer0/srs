@@ -389,7 +389,7 @@ async def start_msg(app, message):
           ],
           [KeyboardButton ("مـعـلـومـات عـن الـبـوت")]
         ],
-        resize_keyboard=True, placeholder='استخراج جلسات'
+        resize_keyboard=True, placeholder='استخراج جلسة حقوق سينزر'
       )
       await message.reply('''
 - مرحـبـًا عـزيـزي 🙋 {},
@@ -407,7 +407,7 @@ async def generator_and_about(app,m):
       text += "🐍 اللـغـة الـبـرمـجـيـة - بـايـثـون "
       text += f"\n🔥 اصـدار بايروجرام {v}"
       text += f"\n🌱 اصـدار تـيـلـيـثـون {v2}"
-      text += f"\n\n👤 مـطـور الـبـوت: @"
+      text += f"\n\n👤 مـطـور الـبـوت: @programer_senzir"
       await m.reply(text, quote=True)
 
     if m.text == "بـايـروجـرام":
